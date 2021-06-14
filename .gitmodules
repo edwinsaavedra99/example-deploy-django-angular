@@ -1,3 +1,0 @@
-[submodule "git"]
-	path = git
-	url = https://github.com/edwinsaavedra99/example-deploy-django-angular.git
